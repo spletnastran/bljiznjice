@@ -1,20 +1,28 @@
-# bljiznjice
-Bljižnjice na tipkovnici.
+# Shortcut
+Shortcut on keyborad
 
-Ctrl + c = Kopiraj
+Ctrl + c = Copy
 
-Ctrl + v = Prilepi
+Ctrl + v = Paste
 
-Ctrl + s = Shrani
+Ctrl + s = Save
 
-Ctrl + Shift + T = Odpri zavihek ki si ga zaprl.
+Ctrl + Shift + T = new tab will open
 
-Ctrl + Z = Korak nazaj.
+Ctrl + Z = step back
 
-Ctrl + Y = Korak naprej.
+Ctrl + Y = step forward
 
-Windows + X + U + S = Spanje
+Ctrl + T = Open new tab
 
-Windows + Shift + S = Izrezek
+Ctrl + D = bookmark the website
 
+Windows + X + U + S = Sleep
 
+Windows + Shift + S = Snip
+
+random number + AltGr + 5 = 3°C degrees
+
+Alt + F4 = Close all windows in aplication
+
+F11 = enabling full screen mode

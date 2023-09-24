@@ -21,6 +21,10 @@ Windows + X + U + S = Sleep
 
 Windows + Shift + S = Snip
 
+SPLETNA STRAN:
+
+https://dev-urejevalniki.pantheonsite.io/
+
 random number + AltGr + 5 = 3°C degrees
 
 Alt + F4 = Close all windows in aplication
